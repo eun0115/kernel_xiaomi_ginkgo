@@ -125,3 +125,11 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# build
+AnyKernel/
+clang/
+out/
+ginkgo.sh
+log.txt
+
