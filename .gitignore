@@ -126,5 +126,8 @@ all.config
 kernel/configs/android-*.cfg
 
 # build
+AnyKernel/
+clang/
 out/
-*.zip
+log.txt
+ginkgo.sh
